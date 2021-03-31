@@ -1,6 +1,6 @@
 # fe-summary
 * ## 工程化
-    * ###模块化
+    * ### 模块化
         * js模块化：es-module、babel、webpack
         * css模块化：css-in-js(styled-components)、css-modules(material-ui)
         * 资源模块化：webpack、loader
@@ -16,7 +16,7 @@
               * UtilExt：isArray、isEmpty、isJSONString、clone、cloneDeep、format、throttle、debounce，etc...
               * UtilSubscribes
               * UtilUser
-    * ###组件化
+    * ### 组件化
         * npm
         ```
         |-framework
@@ -29,9 +29,9 @@
         ```
         * Implement：Page、Model、Storage，etc...
         * Enhance：LifeCycle、Ubt、I18n、UrlQuery、Login、Share、Pay
-    * ###规范化
+    * ### 规范化
         * lint
         * prettier
         * lint-staged
-    * ###自动化
+    * ### 自动化
         
